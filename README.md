@@ -23,3 +23,28 @@ A scalable expense tracking and financial analytics platform built using Flask a
 ---
 
 ## 📁 Project Structure
+```
+expense-tracker-flask/
+│
+├── app.py
+├── main.py
+├── templates/
+│     └── index.html
+├── .gitignore
+└── README.md
+```
+
+---
+## 🔮 Roadmap
+- [x] CLI expense tracker
+- [x] MySQL integration
+- [x] Flask web interface
+- [ ] Monthly filtering
+- [ ] Category-based budgeting
+- [ ] Authentication system
+- [ ] AI-driven expense prediction
+- [ ] Investment portfolio insights
+---
+
+## 📌 Status
+🚧 Actively under development
