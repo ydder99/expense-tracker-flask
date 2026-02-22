@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+budget.json
+expenses.json
+.env
